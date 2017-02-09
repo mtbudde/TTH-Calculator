@@ -1,4 +1,4 @@
-# Toy Tetragram Hash function
+# Toy Tetragraph Hash function
 # Matthew Budde
 # 2.9.17
 
